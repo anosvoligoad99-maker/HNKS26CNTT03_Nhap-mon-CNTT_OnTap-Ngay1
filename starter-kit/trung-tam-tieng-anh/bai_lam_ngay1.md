@@ -104,4 +104,4 @@ Mode                 LastWriteTime         Length Name
 ## Tự chấm (điền sau khi có đáp án)
 
 - **Điểm tự chấm:** 85/100
-- **Lỗi mình đã mắc và cách sửa:sửa kebab-case nhưng vẫn để cái đầu in hoa**
+- **Lỗi mình đã mắc và cách sửa:sửa snake-case nhưng vẫn để cái đầu in hoa**
